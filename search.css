@@ -2,7 +2,10 @@ body {
   margin: 0;
   padding: 0;
   background: #6a11cb; /* purple gradient */
-  background: linear-gradient(135deg, #6a11cb, #2575fc);
+
+ background: linear-gradient(135deg, #43cea2, #185a9d);
+
+
   font-family: Arial, sans-serif;
 }
 
@@ -71,3 +74,14 @@ background: rgba(253, 122, 75, 0.766);
 margin-top: 44px;
 
 }
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  opacity: 0.8;
+}
+
+
