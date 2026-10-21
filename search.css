@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #6a11cb;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  align-items: center;
+  height: 100vh;
+  margin-top: 70px;
+}
+.img-box {
+  text-align: center;
+  color: white;
+}
+
+.search {
+  margin-top: 40px;
+}
